@@ -1,0 +1,5 @@
+{
+  "name": "Agentic Honey-Pot Backend",
+  "description": "A FastAPI backend for scam detection and intelligence extraction.",
+  "requestFramePermissions": []
+}
